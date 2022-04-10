@@ -1,6 +1,6 @@
 
 <h1 align="center">TAXTRA</h1>
-<p align="center"><img src="img/logo.jpeg" alt="Logo" width="150px" height="150px" hspace="10"/><br>
+<p align="center"><img src="img/logo.png" alt="Logo" width="150px" height="150px" hspace="10"/><br>
 <!-- <p align="center">    
     <img src=https://img.shields.io/github/license/covidoff/covidoff>  
     <a href="http://makeapullrequest.com" target="_blank"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs Welcome"></a>
