@@ -14,13 +14,18 @@
 <br>
 
 ### Problem identified
+<br>
 > 
 
 ### Solution provided
+<br>
 > 
 
 ### Built
+<br>
+
 ### Tech Stacks Used
+<br>
   <!-- - **FrontEnd:** HTML, CSS, JS, Bootstrap, SCSS, Streamlit, JQuery
   - **Backend:** Streamlit, Python, Heroku-CLI, Ajax
   - **Database:** JSON, Gspread-dataframe, Openpyxl, Gspread
@@ -29,24 +34,33 @@
   - **Skills:** Software Development, Web Scraping, Python Web Scripting, FrontEnd, Responsive Design Building -->
 
 ### Resources required 
+<br>
 <!-- > Medical Data, User resources
 > Domain, Server, Streamlit Web Server Host Setup -->
 
 ### Challenges faced
+<br>
 >
 
 ### Our accomplishments
+<br>
 >
+
  ### Our learnings
+ <br>
  >
 
 ### Contributers
+<br>
+
 - [Riya Agrawal](https://github.com/Riya500-git)
 - [Lavakush Baniya](https://github.com/lavakush07)
 - [Tushar Mukhopadhyay](https://github.com/snowstorm003)
 
 ### Contribution guidlines
+<br>
 <!-- Just go through the **[contribution guidelines](https://github.com/covidoff/covidoff/blob/main/CONTRIBUTING.md)** to get started with your contributions. -->
 
 ### License
+<br>
 
