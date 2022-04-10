@@ -1,0 +1,22 @@
+{
+  "name": "taxtra",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">TAXTRA</h1>\r <p align=\"center\"><img src=\"img/logo.jpeg\" alt=\"Logo\" width=\"150px\" height=\"150px\" hspace=\"10\"/><br>\r <!-- <p align=\"center\">    \r     <img src=https://img.shields.io/github/license/covidoff/covidoff>  \r     <a href=\"http://makeapullrequest.com\" target=\"_blank\"><img src=\"https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat\" alt=\"PRs Welcome\"></a>\r     <img alt=\"GitHub Forks\" src=\"https://img.shields.io/github/forks/covidoff/covidoff\">\r     <img alt=\"GitHub pull requests\" src=\"https://img.shields.io/github/issues-pr/covidoff/covidoff\">\r     <img alt=\"GitHub issues\" src=\"https://img.shields.io/github/issues/covidoff/covidoff\">\r </p> -->\r <!-- <br>",
+  "main": "email.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lavakush07/Taxtra.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lavakush07/Taxtra/issues"
+  },
+  "homepage": "https://github.com/lavakush07/Taxtra#readme",
+  "dependencies": {
+    "node": "^17.7.2"
+  }
+}
