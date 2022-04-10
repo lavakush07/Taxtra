@@ -8,7 +8,7 @@
     <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/covidoff/covidoff">
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/covidoff/covidoff">
 </p> -->
-<!-- <br>
+<br>
 
 ## Website: 
 <br>
